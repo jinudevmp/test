@@ -1,4 +1,4 @@
 <?php 
 
-echo "test pull";
+echo "test pulling from git";
 ?>
